@@ -1,0 +1,12 @@
+
+# Ignorar pasta de configuração do Visual Studio
+.vs/
+
+# Ignorar arquivos do Visual Studio
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Ignorar arquivos de compilação
+x64/
+
